@@ -1,1 +1,2 @@
 "ceci est un fichier pour exercer git" 
+"ajoute une ligne au fichier" 
